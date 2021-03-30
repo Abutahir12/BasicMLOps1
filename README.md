@@ -27,3 +27,5 @@ step 15- run the following command
             "git branch -M main"
 step 16- run the following command 
             "git push origin main"
+step 17- run the following command after you have added some code to project
+            "dvc repro"            
