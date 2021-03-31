@@ -1,4 +1,12 @@
+#Local Package installs
+-e .
+
+# Third Party Installs
 dvc
 dvc[gdrive]
 sklearn
 pandas
+pytest
+tox
+
+
