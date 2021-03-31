@@ -55,4 +55,9 @@ step 19- setup commands "pip install -e . " to install packages in current direc
                                
 step 20- Commands to build your own tar file and wheel file for created package
             "python setup.py sdist bdist_wheel"
-            
+
+step 21- run the following command to install jupyter notebook in working environment
+            "pip install jupyterlab"
+         
+step 22- run the following command to open the jupyter notebook in notebooks folder
+            "jupyter-lab notebooks/"                         
